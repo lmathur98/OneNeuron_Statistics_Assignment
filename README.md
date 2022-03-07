@@ -1,2 +1,2 @@
-# OneNeuron-Statistics-Assignment
-These are OneNeuron's Statistics Assignment.
+# OneNeuron-Statistics-Assignments
+These are OneNeuron's Statistics Assignments.
